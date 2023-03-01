@@ -8,7 +8,6 @@ My public repositories are some of the projects that I've worked on (mostly in h
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on a Python Discord bot that allows users in the same Discord server to play Connect 4 with each other.
 - 🌱 I’m currently learning C, and functional programming with OCaml through my current university classes.
 - 😀 My current favorite language overall to use is C++.
 - 😄 My pronouns are he/him.
